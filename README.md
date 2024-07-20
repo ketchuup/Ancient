@@ -34,3 +34,13 @@ If you are using bundled Java Runtime, your `javaw.exe` is in `C:\Program Files 
 #### AMD graphics card
 
 ¯\\\_(ツ)_/¯
+
+---
+
+### Better garbage collector configuration
+
+Try to use the following JVM arguments ([explanation](https://www.reddit.com/r/feedthebeast/comments/5jhuk9/modded_mc_and_memory_usage_a_history_with_a/)):
+
+```
+-XX:+UseG1GC -Xmx4G -Xms4G -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+```
