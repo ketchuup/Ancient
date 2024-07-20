@@ -2,6 +2,9 @@
 |--------------------------|
 | Tinkers Construct        |
 | ExtraTiC                 |
+| Industrial Craft 2       |
+| Advanced Solar Panels    |
+| Super Solar Panels       |
 | Thermal Foundation       |
 | Thermal Expansion        |
 | Thermal Dynamics         |
@@ -13,6 +16,7 @@
 | Thaumic Horizons         |
 | Thaumic Exploration      |
 | Tainted Magic            |
+| Electro-Magic Tools      |
 | Thaumcraft Mob Aspects   |
 | Botania                  |
 | Ars Magica 2             |
