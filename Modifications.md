@@ -20,7 +20,13 @@
 | DivineRPG              |
 | The Twilight Forest    |
 | Biomes O' Plenty       |
+| Iron Chests            |
+| Chisel                 |
+| Carpenter's Blocks     |
 | Hats                   |
 | NotEnoughItems         |
 | NEI Addons             |
 | Thaumcraft NEI Plugin  |
+| Journey Map            |
+| Mouse Tweaks           |
+| Inventory Tweaks       |
