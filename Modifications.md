@@ -1,5 +1,8 @@
 | Name                     |
 |--------------------------|
+| Applied Energetics 2     |
+| AE2 Stuff                |
+| Extra Cells              |
 | Tinkers Construct        |
 | ExtraTiC                 |
 | Immersive Engineering    |
@@ -21,6 +24,7 @@
 | Thaumic Horizons         |
 | Thaumic Exploration      |
 | Tainted Magic            |
+| Thaumic Energetics       |
 | Electro-Magic Tools      |
 | Thaumcraft Mob Aspects   |
 | Botania                  |
@@ -42,6 +46,7 @@
 | Hats                     |
 | NotEnoughItems           |
 | NEI Addons               |
+| NEI Integration          |
 | Thaumcraft NEI Plugin    |
 | Journey Map              |
 | Mouse Tweaks             |
