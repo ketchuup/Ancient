@@ -1,5 +1,5 @@
 | Name                |
-|:-------------------:|
+|---------------------|
 | Tinkers Construct   |
 | ExtraTiC            |
 | Thermal Foundation  |
@@ -7,6 +7,7 @@
 | Thermal Dynamics    |
 | Botania             |
 | Biomes O' Plenty    |
+| DivineRPG           |
 | The Twilight Forest |
 | NotEnoughItems      |
 | NEI Addons          |
