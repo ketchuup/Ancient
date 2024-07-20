@@ -1,10 +1,12 @@
 | Name                |
 |:-------------------:|
-| NotEnoughItems      |
-| NEI Addons          |
 | Tinkers Construct   |
 | ExtraTiC            |
-| The Twilight Forest |
 | Thermal Foundation  |
 | Thermal Expansion   |
 | Thermal Dynamics    |
+| Botania             |
+| Biomes O' Plenty    |
+| The Twilight Forest |
+| NotEnoughItems      |
+| NEI Addons          |
