@@ -39,6 +39,7 @@
 | Ars Magica 2             |
 | Blood Magic              |
 | Witchery                 |
+| Aether                   |
 | Atum 2                   |
 | DivineRPG                |
 | The Twilight Forest      |
