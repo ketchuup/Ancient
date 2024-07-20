@@ -35,6 +35,7 @@
 | Ars Magica 2             |
 | Blood Magic              |
 | Witchery                 |
+| Atum 2                   |
 | DivineRPG                |
 | The Twilight Forest      |
 | Biomes O' Plenty         |
@@ -45,8 +46,10 @@
 | Iron Chests              |
 | Chisel                   |
 | Carpenter's Blocks       |
+| Open Computers           |
 | SimpleHarvest            |
 | Pam's Harvestcraft       |
+| Magical Crops            |
 | Hats                     |
 | NotEnoughItems           |
 | NEI Addons               |
@@ -55,3 +58,4 @@
 | Journey Map              |
 | Mouse Tweaks             |
 | Inventory Tweaks         |
+| WAILA                    |
