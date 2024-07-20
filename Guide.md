@@ -12,6 +12,8 @@
 
 6. In `Options` > `Resource Packs` select `Faithful 32x - 1.7.10.zip` resouce pack.
 
+7. Create new world using `Biomes O' Plenty` generator.
+
 ## Optimizations
 
 ### Use dedicated graphics card

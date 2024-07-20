@@ -15,6 +15,8 @@
 | Forestry                 |
 | Binnie's Mods            |
 | Gendustry                |
+| Galacticraft             |
+| ExtraPlantes             |
 | Thermal Foundation       |
 | Thermal Expansion        |
 | Thermal Dynamics         |
