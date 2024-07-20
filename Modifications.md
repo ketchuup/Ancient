@@ -5,6 +5,7 @@
 | Thermal Foundation  |
 | Thermal Expansion   |
 | Thermal Dynamics    |
+| Draconic Evolution  |
 | Botania             |
 | Biomes O' Plenty    |
 | DivineRPG           |
