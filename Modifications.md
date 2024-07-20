@@ -3,6 +3,8 @@
 | Applied Energetics 2     |
 | AE2 Stuff                |
 | Extra Cells              |
+| Avaritia                 |
+| Avaritiaddons            |
 | Tinkers Construct        |
 | ExtraTiC                 |
 | Immersive Engineering    |
