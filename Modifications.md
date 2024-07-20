@@ -10,6 +10,9 @@
 | Industrial Craft 2       |
 | Advanced Solar Panels    |
 | Super Solar Panels       |
+| Forestry                 |
+| Binnie's Mods            |
+| Gendustry                |
 | Thermal Foundation       |
 | Thermal Expansion        |
 | Thermal Dynamics         |
@@ -26,6 +29,7 @@
 | Tainted Magic            |
 | Thaumic Energetics       |
 | Electro-Magic Tools      |
+| Magic bees               |
 | Thaumcraft Mob Aspects   |
 | Botania                  |
 | Ars Magica 2             |
