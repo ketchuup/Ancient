@@ -7,9 +7,12 @@
 | Thermal Dynamics    |
 | Draconic Evolution  |
 | Botania             |
-| Biomes O' Plenty    |
+| Ars Magica 2        |
+| Blood Magic         |
+| Witchery            |
 | DivineRPG           |
 | The Twilight Forest |
+| Biomes O' Plenty    |
 | NotEnoughItems      |
 | NEI Addons          |
 | Hats                |
