@@ -10,3 +10,4 @@
 | The Twilight Forest |
 | NotEnoughItems      |
 | NEI Addons          |
+| Hats                |
