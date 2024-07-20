@@ -2,6 +2,8 @@
 |--------------------------|
 | Tinkers Construct        |
 | ExtraTiC                 |
+| Immersive Engineering    |
+| Immersive Integration    |
 | Industrial Craft 2       |
 | Advanced Solar Panels    |
 | Super Solar Panels       |
@@ -9,6 +11,9 @@
 | Thermal Expansion        |
 | Thermal Dynamics         |
 | Simply Jetpacks          |
+| Ender IO                 |
+| Minefactory Reloaded     |
+| Big Reactors             |
 | Draconic Evolution       |
 | Thaumcraft               |
 | Thaumic Tinkerer         |
