@@ -5,6 +5,9 @@
 | Extra Cells              |
 | Avaritia                 |
 | Avaritiaddons            |
+| Thermal Singularities    |
+| Universal Singularities  |
+| Eternal Singularity      |
 | Tinkers Construct        |
 | ExtraTiC                 |
 | Immersive Engineering    |
