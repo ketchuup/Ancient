@@ -6,7 +6,7 @@
 
 3. In Minecraft Lanucher create new installation with version `1.7.10-Forge10.13.4.1614-1.7.10` and select created directory as game directory.
 
-4. Copy `resourcepacks` directory to game directory.
+4. Copy `mods` and `resourcepacks` directory to game directory.
 
 5. Run created installation.
 
