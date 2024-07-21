@@ -10,7 +10,7 @@
 
 5. Run created installation.
 
-6. In `Options` > `Resource Packs` select `Faithful 32x - 1.7.10.zip` resouce pack.
+6. In `Options` > `Resource Packs` select `Faithful 32x - 1.7.10.zip` and `Aether b.1.7.3 Textures` resouce packs.
 
 7. Create new world using `Biomes O' Plenty` generator.
 
