@@ -47,6 +47,7 @@
 | Aether                     |
 | Atum 2                     |
 | DivineRPG                  |
+| Lycanites Mobs             |
 | The Twilight Forest        |
 | Biomes O' Plenty           |
 | Roguelike Dungeons         |
